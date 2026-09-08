@@ -1,0 +1,6 @@
+Requirements:
+- NVIDIA GPU with CUDA support
+- Python 3.8+
+
+Run:
+pip install numba opencv-python matplotlib numpy
